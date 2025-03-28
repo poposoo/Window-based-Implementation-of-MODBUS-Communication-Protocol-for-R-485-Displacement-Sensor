@@ -1,0 +1,13 @@
+J:\文件\大学部。\锚点\窗口1\窗口1\obj\Debug\窗口1.csproj.AssemblyReference.cache
+J:\文件\大学部。\锚点\窗口1\窗口1\obj\Debug\窗口1.UserControl1.resources
+J:\文件\大学部。\锚点\窗口1\窗口1\obj\Debug\窗口1.csproj.GenerateResource.cache
+J:\文件\大学部。\锚点\窗口1\窗口1\obj\Debug\窗口1.csproj.CoreCompileInputs.cache
+J:\matlab'\wind\窗口1\obj\Debug\窗口1.csproj.AssemblyReference.cache
+J:\matlab'\wind\窗口1\obj\Debug\窗口1.UserControl1.resources
+J:\matlab'\wind\窗口1\obj\Debug\窗口1.csproj.GenerateResource.cache
+J:\matlab'\wind\窗口1\obj\Debug\窗口1.csproj.CoreCompileInputs.cache
+J:\matlab'\wind\窗口1\bin\Debug\窗口1.dll.config
+J:\matlab'\wind\窗口1\bin\Debug\窗口1.dll
+J:\matlab'\wind\窗口1\bin\Debug\窗口1.pdb
+J:\matlab'\wind\窗口1\obj\Debug\窗口1.dll
+J:\matlab'\wind\窗口1\obj\Debug\窗口1.pdb
